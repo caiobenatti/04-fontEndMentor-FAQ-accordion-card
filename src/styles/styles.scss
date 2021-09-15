@@ -9,13 +9,18 @@
 --lightGrayBlue: hsl(240, 5%, 91%);
 
  } 
- 
+
  *{
      padding: 0;
      margin: 0;
      box-sizing: border-box;
  }
 
-  
-  .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
+ 
+ 
+ body{
+     font-size: 12px;
+     font-family: 'Kumbh Sans', sans-serif;
+ }
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
